@@ -10,7 +10,7 @@ namespace superfish
     {
         TodoItemManager todoItemManager;
         UserManager userManager;
-
+        
         // Track whether the user has authenticated.
         bool authenticated = false;
 
